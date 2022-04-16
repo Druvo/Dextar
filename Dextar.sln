@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dextar", "Dextar\Dextar.csproj", "{01EEAACD-A017-4FCD-A9D3-6AB65A4E5C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dextar.Tests", "Dextar.Tests\Dextar.Tests.csproj", "{16E3CA74-2B0A-4D9B-A598-6921F7626053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01EEAACD-A017-4FCD-A9D3-6AB65A4E5C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EEAACD-A017-4FCD-A9D3-6AB65A4E5C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EEAACD-A017-4FCD-A9D3-6AB65A4E5C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EEAACD-A017-4FCD-A9D3-6AB65A4E5C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E3CA74-2B0A-4D9B-A598-6921F7626053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E3CA74-2B0A-4D9B-A598-6921F7626053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E3CA74-2B0A-4D9B-A598-6921F7626053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E3CA74-2B0A-4D9B-A598-6921F7626053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
